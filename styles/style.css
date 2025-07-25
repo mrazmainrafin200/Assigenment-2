@@ -134,6 +134,9 @@ nav a {
     font-size: 20px;
     font-weight: bold;
 }
+.style-F {
+    padding: 30px 69px 30px 69px;
+}
 
 .btn-primary {
     background-color: #FD6E0A;
